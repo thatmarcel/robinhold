@@ -1,0 +1,16 @@
+---
+name: Robinhold
+icmd: killall Robinhood
+
+all:
+    targetvers: 10.0
+    archs:
+        - arm64
+        - arm64e
+
+Robinhold:
+    type: tweak
+    logos_files:
+        - "*.x"
+    objc_files:
+        - "*.m"

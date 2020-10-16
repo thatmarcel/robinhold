@@ -1,0 +1,9 @@
+Package: com.thatmarcel.tweaks.robinhold
+Name: Robinhold
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Robinhood modern sign-in in older versions
+Maintainer: Marcel Braun
+Author: Marcel Braun
+Section: Tweaks
